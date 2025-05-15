@@ -1,14 +1,25 @@
-import { motion } from "framer-motion";
+"use client";
 
-export default function Footer() {
+import Link from "next/link";
+import { FooterProps } from "../types/interfaces";
+
+const Footer = ({ currentYear }: FooterProps) => {
   return (
-    <motion.div
-      initial={{ opacity: 0 }}
-      animate={{ opacity: 1 }}
-      transition={{ delay: 0.5 }}
-      className="mt-auto text-center text-white/60 text-sm pt-4 pb-4"
-    >
-      <p>© {new Date().getFullYear()} ระบบจัดการตารางเรียน</p>
-    </motion.div>
+    <div className="text-xs font-light text-white opacity-50 text-center py-4">
+      <p>
+        สงวนลิขสิทธิ์{" "}
+        <Link
+          href="https://github.com/Pathumlnw"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="hover:underline hover:opacity-80"
+        >
+          Pathumlnw
+        </Link>{" "}
+        © {currentYear}
+      </p>
+    </div>
   );
-}
+};
+
+export default Footer;

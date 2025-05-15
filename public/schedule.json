@@ -1265,7 +1265,7 @@
     "day": "Tuesday",
     "period": "7",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -1274,7 +1274,7 @@
     "day": "Tuesday",
     "period": "8",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -1283,7 +1283,7 @@
     "day": "Wednesday",
     "period": "1",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -1292,7 +1292,7 @@
     "day": "Wednesday",
     "period": "2",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -1400,7 +1400,7 @@
     "day": "Thursday",
     "period": "6",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -1409,7 +1409,7 @@
     "day": "Thursday",
     "period": "7",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -1495,7 +1495,7 @@
   },
   {
     "room": "3/4",
-    "program": "Gifted Thai",
+    "program": "GiftedThai",
     "day": "Monday",
     "period": "1",
     "subject_id": "ท23101",
@@ -1504,7 +1504,7 @@
   },
   {
     "room": "3/4",
-    "program": "Gifted Thai",
+    "program": "GiftedThai",
     "day": "Monday",
     "period": "2",
     "subject_id": "ว23101",
@@ -1513,7 +1513,7 @@
   },
   {
     "room": "3/4",
-    "program": "Gifted Thai",
+    "program": "GiftedThai",
     "day": "Monday",
     "period": "3",
     "subject_id": "พ23101",
@@ -1522,7 +1522,7 @@
   },
   {
     "room": "3/4",
-    "program": "Gifted Thai",
+    "program": "GiftedThai",
     "day": "Monday",
     "period": "4",
     "subject_id": "พัก",
@@ -1531,7 +1531,7 @@
   },
   {
     "room": "3/4",
-    "program": "Gifted Thai",
+    "program": "GiftedThai",
     "day": "Monday",
     "period": "5",
     "subject_id": "ท23201",
@@ -1540,7 +1540,7 @@
   },
   {
     "room": "3/4",
-    "program": "Gifted Thai",
+    "program": "GiftedThai",
     "day": "Monday",
     "period": "6",
     "subject_id": "ศ23101",
@@ -1549,7 +1549,7 @@
   },
   {
     "room": "3/4",
-    "program": "Gifted Thai",
+    "program": "GiftedThai",
     "day": "Monday",
     "period": "7",
     "subject_id": "พ23102",
@@ -1558,7 +1558,7 @@
   },
   {
     "room": "3/4",
-    "program": "Gifted Thai",
+    "program": "GiftedThai",
     "day": "Monday",
     "period": "8",
     "subject_id": "ง23101",
@@ -1567,7 +1567,7 @@
   },
   {
     "room": "3/4",
-    "program": "Gifted Thai",
+    "program": "GiftedThai",
     "day": "Tuesday",
     "period": "1",
     "subject_id": "อ23203",
@@ -1576,7 +1576,7 @@
   },
   {
     "room": "3/4",
-    "program": "Gifted Thai",
+    "program": "GiftedThai",
     "day": "Tuesday",
     "period": "2",
     "subject_id": "ว23101",
@@ -1585,7 +1585,7 @@
   },
   {
     "room": "3/4",
-    "program": "Gifted Thai",
+    "program": "GiftedThai",
     "day": "Tuesday",
     "period": "3",
     "subject_id": "ว23101",
@@ -1594,7 +1594,7 @@
   },
   {
     "room": "3/4",
-    "program": "Gifted Thai",
+    "program": "GiftedThai",
     "day": "Tuesday",
     "period": "4",
     "subject_id": "พัก",
@@ -1603,7 +1603,7 @@
   },
   {
     "room": "3/4",
-    "program": "Gifted Thai",
+    "program": "GiftedThai",
     "day": "Tuesday",
     "period": "5",
     "subject_id": "อ23201",
@@ -1612,7 +1612,7 @@
   },
   {
     "room": "3/4",
-    "program": "Gifted Thai",
+    "program": "GiftedThai",
     "day": "Tuesday",
     "period": "6",
     "subject_id": "ว23102",
@@ -1621,7 +1621,7 @@
   },
   {
     "room": "3/4",
-    "program": "Gifted Thai",
+    "program": "GiftedThai",
     "day": "Tuesday",
     "period": "7",
     "subject_id": "ค23101",
@@ -1630,7 +1630,7 @@
   },
   {
     "room": "3/4",
-    "program": "Gifted Thai",
+    "program": "GiftedThai",
     "day": "Tuesday",
     "period": "8",
     "subject_id": "ท23202",
@@ -1639,7 +1639,7 @@
   },
   {
     "room": "3/4",
-    "program": "Gifted Thai",
+    "program": "GiftedThai",
     "day": "Wednesday",
     "period": "1",
     "subject_id": "ท23203",
@@ -1648,7 +1648,7 @@
   },
   {
     "room": "3/4",
-    "program": "Gifted Thai",
+    "program": "GiftedThai",
     "day": "Wednesday",
     "period": "2",
     "subject_id": "อ23101",
@@ -1657,7 +1657,7 @@
   },
   {
     "room": "3/4",
-    "program": "Gifted Thai",
+    "program": "GiftedThai",
     "day": "Wednesday",
     "period": "3",
     "subject_id": "แนะแนว",
@@ -1666,7 +1666,7 @@
   },
   {
     "room": "3/4",
-    "program": "Gifted Thai",
+    "program": "GiftedThai",
     "day": "Wednesday",
     "period": "4",
     "subject_id": "พัก",
@@ -1675,7 +1675,7 @@
   },
   {
     "room": "3/4",
-    "program": "Gifted Thai",
+    "program": "GiftedThai",
     "day": "Wednesday",
     "period": "5",
     "subject_id": "ท23101",
@@ -1684,7 +1684,7 @@
   },
   {
     "room": "3/4",
-    "program": "Gifted Thai",
+    "program": "GiftedThai",
     "day": "Wednesday",
     "period": "6",
     "subject_id": "ศ23101",
@@ -1693,7 +1693,7 @@
   },
   {
     "room": "3/4",
-    "program": "Gifted Thai",
+    "program": "GiftedThai",
     "day": "Wednesday",
     "period": "7",
     "subject_id": "ติว",
@@ -1702,7 +1702,7 @@
   },
   {
     "room": "3/4",
-    "program": "Gifted Thai",
+    "program": "GiftedThai",
     "day": "Wednesday",
     "period": "8",
     "subject_id": "ค23101",
@@ -1711,7 +1711,7 @@
   },
   {
     "room": "3/4",
-    "program": "Gifted Thai",
+    "program": "GiftedThai",
     "day": "Thursday",
     "period": "1",
     "subject_id": "ท23203",
@@ -1720,7 +1720,7 @@
   },
   {
     "room": "3/4",
-    "program": "Gifted Thai",
+    "program": "GiftedThai",
     "day": "Thursday",
     "period": "2",
     "subject_id": "ส23101",
@@ -1729,7 +1729,7 @@
   },
   {
     "room": "3/4",
-    "program": "Gifted Thai",
+    "program": "GiftedThai",
     "day": "Thursday",
     "period": "3",
     "subject_id": "ค23204",
@@ -1738,7 +1738,7 @@
   },
   {
     "room": "3/4",
-    "program": "Gifted Thai",
+    "program": "GiftedThai",
     "day": "Thursday",
     "period": "4",
     "subject_id": "พัก",
@@ -1747,7 +1747,7 @@
   },
   {
     "room": "3/4",
-    "program": "Gifted Thai",
+    "program": "GiftedThai",
     "day": "Thursday",
     "period": "5",
     "subject_id": "อ23101",
@@ -1756,7 +1756,7 @@
   },
   {
     "room": "3/4",
-    "program": "Gifted Thai",
+    "program": "GiftedThai",
     "day": "Thursday",
     "period": "6",
     "subject_id": "ค23101",
@@ -1765,7 +1765,7 @@
   },
   {
     "room": "3/4",
-    "program": "Gifted Thai",
+    "program": "GiftedThai",
     "day": "Thursday",
     "period": "7",
     "subject_id": "ท23101",
@@ -1774,7 +1774,7 @@
   },
   {
     "room": "3/4",
-    "program": "Gifted Thai",
+    "program": "GiftedThai",
     "day": "Thursday",
     "period": "8",
     "subject_id": "กิจกรรม",
@@ -1783,7 +1783,7 @@
   },
   {
     "room": "3/4",
-    "program": "Gifted Thai",
+    "program": "GiftedThai",
     "day": "Friday",
     "period": "1",
     "subject_id": "ส23102",
@@ -1792,7 +1792,7 @@
   },
   {
     "room": "3/4",
-    "program": "Gifted Thai",
+    "program": "GiftedThai",
     "day": "Friday",
     "period": "2",
     "subject_id": "อ23101",
@@ -1801,7 +1801,7 @@
   },
   {
     "room": "3/4",
-    "program": "Gifted Thai",
+    "program": "GiftedThai",
     "day": "Friday",
     "period": "3",
     "subject_id": "ส23101",
@@ -1810,7 +1810,7 @@
   },
   {
     "room": "3/4",
-    "program": "Gifted Thai",
+    "program": "GiftedThai",
     "day": "Friday",
     "period": "4",
     "subject_id": "พัก",
@@ -1819,7 +1819,7 @@
   },
   {
     "room": "3/4",
-    "program": "Gifted Thai",
+    "program": "GiftedThai",
     "day": "Friday",
     "period": "5",
     "subject_id": "ว23208",
@@ -1828,7 +1828,7 @@
   },
   {
     "room": "3/4",
-    "program": "Gifted Thai",
+    "program": "GiftedThai",
     "day": "Friday",
     "period": "6",
     "subject_id": "ท23203",
@@ -1837,7 +1837,7 @@
   },
   {
     "room": "3/4",
-    "program": "Gifted Thai",
+    "program": "GiftedThai",
     "day": "Friday",
     "period": "7",
     "subject_id": "ท23202",
@@ -1846,7 +1846,7 @@
   },
   {
     "room": "3/4",
-    "program": "Gifted Thai",
+    "program": "GiftedThai",
     "day": "Friday",
     "period": "8",
     "subject_id": "ส23101",
@@ -6233,7 +6233,7 @@
     "day": "Monday",
     "period": "3",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -6242,7 +6242,7 @@
     "day": "Monday",
     "period": "4",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -6296,7 +6296,7 @@
     "day": "Tuesday",
     "period": "3",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -6305,7 +6305,7 @@
     "day": "Tuesday",
     "period": "4",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -6359,7 +6359,7 @@
     "day": "Wednesday",
     "period": "3",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -6368,7 +6368,7 @@
     "day": "Wednesday",
     "period": "4",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -6395,7 +6395,7 @@
     "day": "Thursday",
     "period": "1",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -6404,7 +6404,7 @@
     "day": "Thursday",
     "period": "2",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -6485,7 +6485,7 @@
     "day": "Friday",
     "period": "3",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -6494,7 +6494,7 @@
     "day": "Friday",
     "period": "4",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -10603,7 +10603,7 @@
   },
   {
     "room": "2/1",
-    "program": "Gifted Mat",
+    "program": "GiftedMat",
     "day": "Monday",
     "period": "1",
     "subject_id": "อ22101",
@@ -10612,7 +10612,7 @@
   },
   {
     "room": "2/1",
-    "program": "Gifted Mat",
+    "program": "GiftedMat",
     "day": "Monday",
     "period": "2",
     "subject_id": "ส22101",
@@ -10621,7 +10621,7 @@
   },
   {
     "room": "2/1",
-    "program": "Gifted Mat",
+    "program": "GiftedMat",
     "day": "Monday",
     "period": "3",
     "subject_id": "ว22102",
@@ -10630,7 +10630,7 @@
   },
   {
     "room": "2/1",
-    "program": "Gifted Mat",
+    "program": "GiftedMat",
     "day": "Monday",
     "period": "4",
     "subject_id": "พัก",
@@ -10639,7 +10639,7 @@
   },
   {
     "room": "2/1",
-    "program": "Gifted Mat",
+    "program": "GiftedMat",
     "day": "Monday",
     "period": "5",
     "subject_id": "ส22102",
@@ -10648,7 +10648,7 @@
   },
   {
     "room": "2/1",
-    "program": "Gifted Mat",
+    "program": "GiftedMat",
     "day": "Monday",
     "period": "6",
     "subject_id": "ค22101",
@@ -10657,7 +10657,7 @@
   },
   {
     "room": "2/1",
-    "program": "Gifted Mat",
+    "program": "GiftedMat",
     "day": "Monday",
     "period": "7",
     "subject_id": "ศ22101",
@@ -10666,7 +10666,7 @@
   },
   {
     "room": "2/1",
-    "program": "Gifted Mat",
+    "program": "GiftedMat",
     "day": "Monday",
     "period": "8",
     "subject_id": "แนะแนว",
@@ -10675,7 +10675,7 @@
   },
   {
     "room": "2/1",
-    "program": "Gifted Mat",
+    "program": "GiftedMat",
     "day": "Tuesday",
     "period": "1",
     "subject_id": "ท22101",
@@ -10684,7 +10684,7 @@
   },
   {
     "room": "2/1",
-    "program": "Gifted Mat",
+    "program": "GiftedMat",
     "day": "Tuesday",
     "period": "2",
     "subject_id": "พ22101",
@@ -10693,7 +10693,7 @@
   },
   {
     "room": "2/1",
-    "program": "Gifted Mat",
+    "program": "GiftedMat",
     "day": "Tuesday",
     "period": "3",
     "subject_id": "ค22203",
@@ -10702,7 +10702,7 @@
   },
   {
     "room": "2/1",
-    "program": "Gifted Mat",
+    "program": "GiftedMat",
     "day": "Tuesday",
     "period": "4",
     "subject_id": "พัก",
@@ -10711,7 +10711,7 @@
   },
   {
     "room": "2/1",
-    "program": "Gifted Mat",
+    "program": "GiftedMat",
     "day": "Tuesday",
     "period": "5",
     "subject_id": "ว22101",
@@ -10720,7 +10720,7 @@
   },
   {
     "room": "2/1",
-    "program": "Gifted Mat",
+    "program": "GiftedMat",
     "day": "Tuesday",
     "period": "6",
     "subject_id": "อ22205",
@@ -10729,7 +10729,7 @@
   },
   {
     "room": "2/1",
-    "program": "Gifted Mat",
+    "program": "GiftedMat",
     "day": "Tuesday",
     "period": "7",
     "subject_id": "ค22202",
@@ -10738,7 +10738,7 @@
   },
   {
     "room": "2/1",
-    "program": "Gifted Mat",
+    "program": "GiftedMat",
     "day": "Tuesday",
     "period": "8",
     "subject_id": "อ22201",
@@ -10747,7 +10747,7 @@
   },
   {
     "room": "2/1",
-    "program": "Gifted Mat",
+    "program": "GiftedMat",
     "day": "Wednesday",
     "period": "1",
     "subject_id": "อ22101",
@@ -10756,7 +10756,7 @@
   },
   {
     "room": "2/1",
-    "program": "Gifted Mat",
+    "program": "GiftedMat",
     "day": "Wednesday",
     "period": "2",
     "subject_id": "ส22101",
@@ -10765,7 +10765,7 @@
   },
   {
     "room": "2/1",
-    "program": "Gifted Mat",
+    "program": "GiftedMat",
     "day": "Wednesday",
     "period": "3",
     "subject_id": "ท22101",
@@ -10774,7 +10774,7 @@
   },
   {
     "room": "2/1",
-    "program": "Gifted Mat",
+    "program": "GiftedMat",
     "day": "Wednesday",
     "period": "4",
     "subject_id": "พัก",
@@ -10783,7 +10783,7 @@
   },
   {
     "room": "2/1",
-    "program": "Gifted Mat",
+    "program": "GiftedMat",
     "day": "Wednesday",
     "period": "5",
     "subject_id": "ค22101",
@@ -10792,7 +10792,7 @@
   },
   {
     "room": "2/1",
-    "program": "Gifted Mat",
+    "program": "GiftedMat",
     "day": "Wednesday",
     "period": "6",
     "subject_id": "ศ22101",
@@ -10801,7 +10801,7 @@
   },
   {
     "room": "2/1",
-    "program": "Gifted Mat",
+    "program": "GiftedMat",
     "day": "Wednesday",
     "period": "7",
     "subject_id": "กิจกรรม",
@@ -10810,7 +10810,7 @@
   },
   {
     "room": "2/1",
-    "program": "Gifted Mat",
+    "program": "GiftedMat",
     "day": "Wednesday",
     "period": "8",
     "subject_id": "ค22203",
@@ -10819,7 +10819,7 @@
   },
   {
     "room": "2/1",
-    "program": "Gifted Mat",
+    "program": "GiftedMat",
     "day": "Thursday",
     "period": "1",
     "subject_id": "ค22201",
@@ -10828,7 +10828,7 @@
   },
   {
     "room": "2/1",
-    "program": "Gifted Mat",
+    "program": "GiftedMat",
     "day": "Thursday",
     "period": "2",
     "subject_id": "พ22102",
@@ -10837,7 +10837,7 @@
   },
   {
     "room": "2/1",
-    "program": "Gifted Mat",
+    "program": "GiftedMat",
     "day": "Thursday",
     "period": "3",
     "subject_id": "อ22101",
@@ -10846,7 +10846,7 @@
   },
   {
     "room": "2/1",
-    "program": "Gifted Mat",
+    "program": "GiftedMat",
     "day": "Thursday",
     "period": "4",
     "subject_id": "พัก",
@@ -10855,7 +10855,7 @@
   },
   {
     "room": "2/1",
-    "program": "Gifted Mat",
+    "program": "GiftedMat",
     "day": "Thursday",
     "period": "5",
     "subject_id": "ค22101",
@@ -10864,7 +10864,7 @@
   },
   {
     "room": "2/1",
-    "program": "Gifted Mat",
+    "program": "GiftedMat",
     "day": "Thursday",
     "period": "6",
     "subject_id": "ท22101",
@@ -10873,7 +10873,7 @@
   },
   {
     "room": "2/1",
-    "program": "Gifted Mat",
+    "program": "GiftedMat",
     "day": "Thursday",
     "period": "7",
     "subject_id": "ว22209",
@@ -10882,7 +10882,7 @@
   },
   {
     "room": "2/1",
-    "program": "Gifted Mat",
+    "program": "GiftedMat",
     "day": "Thursday",
     "period": "8",
     "subject_id": "กิจกรรม",
@@ -10891,7 +10891,7 @@
   },
   {
     "room": "2/1",
-    "program": "Gifted Mat",
+    "program": "GiftedMat",
     "day": "Friday",
     "period": "1",
     "subject_id": "ว22101",
@@ -10900,7 +10900,7 @@
   },
   {
     "room": "2/1",
-    "program": "Gifted Mat",
+    "program": "GiftedMat",
     "day": "Friday",
     "period": "2",
     "subject_id": "ว22101",
@@ -10909,7 +10909,7 @@
   },
   {
     "room": "2/1",
-    "program": "Gifted Mat",
+    "program": "GiftedMat",
     "day": "Friday",
     "period": "3",
     "subject_id": "ส22101",
@@ -10918,7 +10918,7 @@
   },
   {
     "room": "2/1",
-    "program": "Gifted Mat",
+    "program": "GiftedMat",
     "day": "Friday",
     "period": "4",
     "subject_id": "พัก",
@@ -10927,7 +10927,7 @@
   },
   {
     "room": "2/1",
-    "program": "Gifted Mat",
+    "program": "GiftedMat",
     "day": "Friday",
     "period": "5",
     "subject_id": "ค22201",
@@ -10936,7 +10936,7 @@
   },
   {
     "room": "2/1",
-    "program": "Gifted Mat",
+    "program": "GiftedMat",
     "day": "Friday",
     "period": "6",
     "subject_id": "ง22101",
@@ -10945,7 +10945,7 @@
   },
   {
     "room": "2/1",
-    "program": "Gifted Mat",
+    "program": "GiftedMat",
     "day": "Friday",
     "period": "7",
     "subject_id": "ค22202",
@@ -10954,7 +10954,7 @@
   },
   {
     "room": "2/2",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Monday",
     "period": "1",
     "subject_id": "ว22201",
@@ -10963,7 +10963,7 @@
   },
   {
     "room": "2/2",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Monday",
     "period": "2",
     "subject_id": "ว22201",
@@ -10972,7 +10972,7 @@
   },
   {
     "room": "2/2",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Monday",
     "period": "3",
     "subject_id": "ค22201",
@@ -10981,7 +10981,7 @@
   },
   {
     "room": "2/2",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Monday",
     "period": "4",
     "subject_id": "พัก",
@@ -10990,7 +10990,7 @@
   },
   {
     "room": "2/2",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Monday",
     "period": "5",
     "subject_id": "ว22209",
@@ -10999,7 +10999,7 @@
   },
   {
     "room": "2/2",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Monday",
     "period": "6",
     "subject_id": "ว22101",
@@ -11008,7 +11008,7 @@
   },
   {
     "room": "2/2",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Monday",
     "period": "7",
     "subject_id": "ว22101",
@@ -11017,7 +11017,7 @@
   },
   {
     "room": "2/2",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Tuesday",
     "period": "1",
     "subject_id": "อ22101",
@@ -11026,7 +11026,7 @@
   },
   {
     "room": "2/2",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Tuesday",
     "period": "2",
     "subject_id": "ค22101",
@@ -11035,7 +11035,7 @@
   },
   {
     "room": "2/2",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Tuesday",
     "period": "3",
     "subject_id": "อ22205",
@@ -11044,7 +11044,7 @@
   },
   {
     "room": "2/2",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Tuesday",
     "period": "4",
     "subject_id": "พัก",
@@ -11053,7 +11053,7 @@
   },
   {
     "room": "2/2",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Tuesday",
     "period": "5",
     "subject_id": "ค22201",
@@ -11062,7 +11062,7 @@
   },
   {
     "room": "2/2",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Tuesday",
     "period": "6",
     "subject_id": "ท22101",
@@ -11071,7 +11071,7 @@
   },
   {
     "room": "2/2",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Tuesday",
     "period": "7",
     "subject_id": "ส22102",
@@ -11080,7 +11080,7 @@
   },
   {
     "room": "2/2",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Tuesday",
     "period": "8",
     "subject_id": "ส22101",
@@ -11089,7 +11089,7 @@
   },
   {
     "room": "2/2",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Wednesday",
     "period": "1",
     "subject_id": "ค22101",
@@ -11098,7 +11098,7 @@
   },
   {
     "room": "2/2",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Wednesday",
     "period": "2",
     "subject_id": "อ22101",
@@ -11107,7 +11107,7 @@
   },
   {
     "room": "2/2",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Wednesday",
     "period": "3",
     "subject_id": "ว22102",
@@ -11116,7 +11116,7 @@
   },
   {
     "room": "2/2",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Wednesday",
     "period": "4",
     "subject_id": "พัก",
@@ -11125,7 +11125,7 @@
   },
   {
     "room": "2/2",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Wednesday",
     "period": "5",
     "subject_id": "ท22101",
@@ -11134,7 +11134,7 @@
   },
   {
     "room": "2/2",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Wednesday",
     "period": "6",
     "subject_id": "อ22201",
@@ -11143,7 +11143,7 @@
   },
   {
     "room": "2/2",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Wednesday",
     "period": "7",
     "subject_id": "กิจกรรม",
@@ -11152,7 +11152,7 @@
   },
   {
     "room": "2/2",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Wednesday",
     "period": "8",
     "subject_id": "แนะแนว",
@@ -11161,7 +11161,7 @@
   },
   {
     "room": "2/2",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Thursday",
     "period": "1",
     "subject_id": "ง22101",
@@ -11170,7 +11170,7 @@
   },
   {
     "room": "2/2",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Thursday",
     "period": "2",
     "subject_id": "ท22101",
@@ -11179,7 +11179,7 @@
   },
   {
     "room": "2/2",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Thursday",
     "period": "3",
     "subject_id": "พ22101",
@@ -11188,7 +11188,7 @@
   },
   {
     "room": "2/2",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Thursday",
     "period": "4",
     "subject_id": "พัก",
@@ -11197,7 +11197,7 @@
   },
   {
     "room": "2/2",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Thursday",
     "period": "5",
     "subject_id": "ส22101",
@@ -11206,7 +11206,7 @@
   },
   {
     "room": "2/2",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Thursday",
     "period": "6",
     "subject_id": "พ22102",
@@ -11215,7 +11215,7 @@
   },
   {
     "room": "2/2",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Thursday",
     "period": "7",
     "subject_id": "ค22101",
@@ -11224,7 +11224,7 @@
   },
   {
     "room": "2/2",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Thursday",
     "period": "8",
     "subject_id": "กิจกรรม",
@@ -11233,7 +11233,7 @@
   },
   {
     "room": "2/2",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Friday",
     "period": "1",
     "subject_id": "ว22101",
@@ -11242,7 +11242,7 @@
   },
   {
     "room": "2/2",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Friday",
     "period": "2",
     "subject_id": "ศ22101",
@@ -11251,7 +11251,7 @@
   },
   {
     "room": "2/2",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Friday",
     "period": "3",
     "subject_id": "ศ22101",
@@ -11260,7 +11260,7 @@
   },
   {
     "room": "2/2",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Friday",
     "period": "4",
     "subject_id": "พัก",
@@ -11269,7 +11269,7 @@
   },
   {
     "room": "2/2",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Friday",
     "period": "5",
     "subject_id": "อ22101",
@@ -11278,7 +11278,7 @@
   },
   {
     "room": "2/2",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Friday",
     "period": "6",
     "subject_id": "ส22101",
@@ -11287,7 +11287,7 @@
   },
   {
     "room": "2/2",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Friday",
     "period": "7",
     "subject_id": "ว22203",
@@ -11296,7 +11296,7 @@
   },
   {
     "room": "2/2",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Friday",
     "period": "8",
     "subject_id": "ว22203",
@@ -11305,7 +11305,7 @@
   },
   {
     "room": "2/3",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Monday",
     "period": "1",
     "subject_id": "ศ22101",
@@ -11314,7 +11314,7 @@
   },
   {
     "room": "2/3",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Monday",
     "period": "2",
     "subject_id": "ส22101",
@@ -11323,7 +11323,7 @@
   },
   {
     "room": "2/3",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Monday",
     "period": "3",
     "subject_id": "อ22101",
@@ -11332,7 +11332,7 @@
   },
   {
     "room": "2/3",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Monday",
     "period": "4",
     "subject_id": "พัก",
@@ -11341,7 +11341,7 @@
   },
   {
     "room": "2/3",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Monday",
     "period": "5",
     "subject_id": "อ22205",
@@ -11350,7 +11350,7 @@
   },
   {
     "room": "2/3",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Monday",
     "period": "6",
     "subject_id": "พ22102",
@@ -11359,7 +11359,7 @@
   },
   {
     "room": "2/3",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Monday",
     "period": "7",
     "subject_id": "ค22101",
@@ -11368,7 +11368,7 @@
   },
   {
     "room": "2/3",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Tuesday",
     "period": "1",
     "subject_id": "ว22101",
@@ -11377,7 +11377,7 @@
   },
   {
     "room": "2/3",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Tuesday",
     "period": "2",
     "subject_id": "อ22101",
@@ -11386,7 +11386,7 @@
   },
   {
     "room": "2/3",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Tuesday",
     "period": "3",
     "subject_id": "ส22102",
@@ -11395,7 +11395,7 @@
   },
   {
     "room": "2/3",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Tuesday",
     "period": "4",
     "subject_id": "พัก",
@@ -11404,7 +11404,7 @@
   },
   {
     "room": "2/3",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Tuesday",
     "period": "5",
     "subject_id": "ว22203",
@@ -11413,7 +11413,7 @@
   },
   {
     "room": "2/3",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Tuesday",
     "period": "6",
     "subject_id": "ว22209",
@@ -11422,7 +11422,7 @@
   },
   {
     "room": "2/3",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Tuesday",
     "period": "7",
     "subject_id": "ศ22101",
@@ -11431,7 +11431,7 @@
   },
   {
     "room": "2/3",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Tuesday",
     "period": "8",
     "subject_id": "ท22101",
@@ -11440,7 +11440,7 @@
   },
   {
     "room": "2/3",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Wednesday",
     "period": "1",
     "subject_id": "ว22101",
@@ -11449,7 +11449,7 @@
   },
   {
     "room": "2/3",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Wednesday",
     "period": "2",
     "subject_id": "ว22101",
@@ -11458,7 +11458,7 @@
   },
   {
     "room": "2/3",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Wednesday",
     "period": "3",
     "subject_id": "พ22101",
@@ -11467,7 +11467,7 @@
   },
   {
     "room": "2/3",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Wednesday",
     "period": "4",
     "subject_id": "พัก",
@@ -11476,7 +11476,7 @@
   },
   {
     "room": "2/3",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Wednesday",
     "period": "5",
     "subject_id": "ว22203",
@@ -11485,7 +11485,7 @@
   },
   {
     "room": "2/3",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Wednesday",
     "period": "6",
     "subject_id": "อ22101",
@@ -11494,7 +11494,7 @@
   },
   {
     "room": "2/3",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Wednesday",
     "period": "7",
     "subject_id": "กิจกรรม",
@@ -11503,7 +11503,7 @@
   },
   {
     "room": "2/3",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Wednesday",
     "period": "8",
     "subject_id": "แนะแนว",
@@ -11512,7 +11512,7 @@
   },
   {
     "room": "2/3",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Thursday",
     "period": "1",
     "subject_id": "ค22101",
@@ -11521,7 +11521,7 @@
   },
   {
     "room": "2/3",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Thursday",
     "period": "2",
     "subject_id": "ค22201",
@@ -11530,7 +11530,7 @@
   },
   {
     "room": "2/3",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Thursday",
     "period": "3",
     "subject_id": "ว22102",
@@ -11539,7 +11539,7 @@
   },
   {
     "room": "2/3",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Thursday",
     "period": "4",
     "subject_id": "พัก",
@@ -11548,7 +11548,7 @@
   },
   {
     "room": "2/3",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Thursday",
     "period": "5",
     "subject_id": "ง22101",
@@ -11557,7 +11557,7 @@
   },
   {
     "room": "2/3",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Thursday",
     "period": "6",
     "subject_id": "ส22101",
@@ -11566,7 +11566,7 @@
   },
   {
     "room": "2/3",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Thursday",
     "period": "7",
     "subject_id": "ท22101",
@@ -11575,7 +11575,7 @@
   },
   {
     "room": "2/3",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Thursday",
     "period": "8",
     "subject_id": "กิจกรรม",
@@ -11584,7 +11584,7 @@
   },
   {
     "room": "2/3",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Friday",
     "period": "1",
     "subject_id": "ส22101",
@@ -11593,7 +11593,7 @@
   },
   {
     "room": "2/3",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Friday",
     "period": "2",
     "subject_id": "ค22201",
@@ -11602,7 +11602,7 @@
   },
   {
     "room": "2/3",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Friday",
     "period": "3",
     "subject_id": "ค22101",
@@ -11611,7 +11611,7 @@
   },
   {
     "room": "2/3",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Friday",
     "period": "4",
     "subject_id": "พัก",
@@ -11620,7 +11620,7 @@
   },
   {
     "room": "2/3",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Friday",
     "period": "5",
     "subject_id": "ว22201",
@@ -11629,7 +11629,7 @@
   },
   {
     "room": "2/3",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Friday",
     "period": "6",
     "subject_id": "ว22201",
@@ -11638,7 +11638,7 @@
   },
   {
     "room": "2/3",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Friday",
     "period": "7",
     "subject_id": "อ22201",
@@ -11647,7 +11647,7 @@
   },
   {
     "room": "2/3",
-    "program": "Gifted Sci",
+    "program": "GiftedSci",
     "day": "Friday",
     "period": "8",
     "subject_id": "ท22101",
@@ -11696,7 +11696,7 @@
     "day": "Monday",
     "period": "5",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -11705,7 +11705,7 @@
     "day": "Monday",
     "period": "6",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -11768,7 +11768,7 @@
     "day": "Tuesday",
     "period": "5",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -11777,7 +11777,7 @@
     "day": "Tuesday",
     "period": "6",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -11966,7 +11966,7 @@
     "day": "Friday",
     "period": "1",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -11975,7 +11975,7 @@
     "day": "Friday",
     "period": "2",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -16394,7 +16394,7 @@
     "day": "Monday",
     "period": "7",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -16403,7 +16403,7 @@
     "day": "Monday",
     "period": "8",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -16412,7 +16412,7 @@
     "day": "Monday",
     "period": "9",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -16511,7 +16511,7 @@
     "day": "Wednesday",
     "period": "1",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -16520,7 +16520,7 @@
     "day": "Wednesday",
     "period": "2",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -16583,7 +16583,7 @@
     "day": "Wednesday",
     "period": "9",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -16759,7 +16759,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Monday",
     "period": "1",
     "subject_id": "ค32101",
@@ -16768,7 +16768,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Monday",
     "period": "2",
     "subject_id": "ว32223",
@@ -16777,7 +16777,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Monday",
     "period": "3",
     "subject_id": "ค32201",
@@ -16786,7 +16786,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Monday",
     "period": "4",
     "subject_id": "ว30101",
@@ -16795,7 +16795,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Monday",
     "period": "5",
     "subject_id": "พัก",
@@ -16804,7 +16804,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Monday",
     "period": "6",
     "subject_id": "อ32101",
@@ -16813,7 +16813,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Monday",
     "period": "7",
     "subject_id": "พ32101",
@@ -16822,7 +16822,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Monday",
     "period": "8",
     "subject_id": "ว32201",
@@ -16831,7 +16831,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Monday",
     "period": "9",
     "subject_id": "ศ32101",
@@ -16840,7 +16840,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Monday",
     "period": "10",
     "subject_id": "ท32101",
@@ -16849,7 +16849,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Tuesday",
     "period": "1",
     "subject_id": "ว32201",
@@ -16858,7 +16858,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Tuesday",
     "period": "2",
     "subject_id": "ว32201",
@@ -16867,7 +16867,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Tuesday",
     "period": "3",
     "subject_id": "I30102",
@@ -16876,7 +16876,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Tuesday",
     "period": "4",
     "subject_id": "I30102",
@@ -16885,7 +16885,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Tuesday",
     "period": "5",
     "subject_id": "พัก",
@@ -16894,7 +16894,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Tuesday",
     "period": "6",
     "subject_id": "ค32201",
@@ -16903,7 +16903,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Tuesday",
     "period": "7",
     "subject_id": "ค32101",
@@ -16912,7 +16912,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Tuesday",
     "period": "8",
     "subject_id": "ส32101",
@@ -16921,7 +16921,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Tuesday",
     "period": "9",
     "subject_id": "อ32101",
@@ -16930,7 +16930,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Wednesday",
     "period": "1",
     "subject_id": "อ32203",
@@ -16939,7 +16939,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Wednesday",
     "period": "2",
     "subject_id": "ว32281",
@@ -16948,7 +16948,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Wednesday",
     "period": "3",
     "subject_id": "ว30101",
@@ -16957,7 +16957,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Wednesday",
     "period": "4",
     "subject_id": "ว30101",
@@ -16966,7 +16966,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Wednesday",
     "period": "5",
     "subject_id": "พัก",
@@ -16975,7 +16975,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Wednesday",
     "period": "6",
     "subject_id": "ค32201",
@@ -16984,7 +16984,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Wednesday",
     "period": "7",
     "subject_id": "ค32101",
@@ -16993,7 +16993,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Wednesday",
     "period": "8",
     "subject_id": "ส32102",
@@ -17002,7 +17002,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Wednesday",
     "period": "9",
     "subject_id": "ท32101",
@@ -17011,7 +17011,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Wednesday",
     "period": "10",
     "subject_id": "แนะแนว",
@@ -17020,7 +17020,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Thursday",
     "period": "1",
     "subject_id": "ว32241",
@@ -17029,7 +17029,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Thursday",
     "period": "2",
     "subject_id": "ว32241",
@@ -17038,7 +17038,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Thursday",
     "period": "3",
     "subject_id": "ว32247",
@@ -17047,7 +17047,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Thursday",
     "period": "4",
     "subject_id": "ว32247",
@@ -17056,7 +17056,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Thursday",
     "period": "5",
     "subject_id": "พัก",
@@ -17065,7 +17065,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Thursday",
     "period": "6",
     "subject_id": "ส32101",
@@ -17074,7 +17074,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Thursday",
     "period": "7",
     "subject_id": "อ32201",
@@ -17083,7 +17083,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Thursday",
     "period": "8",
     "subject_id": "กิจกรรม",
@@ -17092,7 +17092,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Thursday",
     "period": "9",
     "subject_id": "ง32101",
@@ -17101,7 +17101,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Friday",
     "period": "1",
     "subject_id": "ว32223",
@@ -17110,7 +17110,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Friday",
     "period": "2",
     "subject_id": "ว32223",
@@ -17119,7 +17119,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Friday",
     "period": "3",
     "subject_id": "ว32201",
@@ -17128,7 +17128,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Friday",
     "period": "4",
     "subject_id": "ค32201",
@@ -17137,7 +17137,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Friday",
     "period": "5",
     "subject_id": "พัก",
@@ -17146,7 +17146,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Friday",
     "period": "6",
     "subject_id": "อ32203",
@@ -17155,7 +17155,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Friday",
     "period": "7",
     "subject_id": "ว32241",
@@ -17164,7 +17164,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Friday",
     "period": "8",
     "subject_id": "ว32229",
@@ -17173,7 +17173,7 @@
   },
   {
     "room": "5/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Friday",
     "period": "9",
     "subject_id": "ว32229",
@@ -17240,7 +17240,7 @@
     "day": "Monday",
     "period": "7",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -17249,7 +17249,7 @@
     "day": "Monday",
     "period": "8",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -17267,7 +17267,7 @@
     "day": "Tuesday",
     "period": "1",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -17276,7 +17276,7 @@
     "day": "Tuesday",
     "period": "2",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -17357,7 +17357,7 @@
     "day": "Wednesday",
     "period": "3",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -17366,7 +17366,7 @@
     "day": "Wednesday",
     "period": "4",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -17429,7 +17429,7 @@
     "day": "Thursday",
     "period": "3",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -17438,7 +17438,7 @@
     "day": "Thursday",
     "period": "4",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -17483,7 +17483,7 @@
     "day": "Friday",
     "period": "1",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -17492,7 +17492,7 @@
     "day": "Friday",
     "period": "2",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -17609,7 +17609,7 @@
     "day": "Monday",
     "period": "7",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -17618,7 +17618,7 @@
     "day": "Monday",
     "period": "8",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -17636,7 +17636,7 @@
     "day": "Tuesday",
     "period": "1",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -17645,7 +17645,7 @@
     "day": "Tuesday",
     "period": "2",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -17726,7 +17726,7 @@
     "day": "Wednesday",
     "period": "3",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -17735,7 +17735,7 @@
     "day": "Wednesday",
     "period": "4",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -17798,7 +17798,7 @@
     "day": "Thursday",
     "period": "3",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -17807,7 +17807,7 @@
     "day": "Thursday",
     "period": "4",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -17852,7 +17852,7 @@
     "day": "Friday",
     "period": "1",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -17861,7 +17861,7 @@
     "day": "Friday",
     "period": "2",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -22708,7 +22708,7 @@
   },
   {
     "room": "1/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Monday",
     "period": "1",
     "subject_id": "ท21101",
@@ -22717,7 +22717,7 @@
   },
   {
     "room": "1/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Monday",
     "period": "2",
     "subject_id": "ส21102",
@@ -22726,7 +22726,7 @@
   },
   {
     "room": "1/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Monday",
     "period": "3",
     "subject_id": "พ21102",
@@ -22735,7 +22735,7 @@
   },
   {
     "room": "1/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Monday",
     "period": "4",
     "subject_id": "พัก",
@@ -22744,7 +22744,7 @@
   },
   {
     "room": "1/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Monday",
     "period": "5",
     "subject_id": "ค21101",
@@ -22753,7 +22753,7 @@
   },
   {
     "room": "1/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Monday",
     "period": "6",
     "subject_id": "แนะแนว",
@@ -22762,7 +22762,7 @@
   },
   {
     "room": "1/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Monday",
     "period": "7",
     "subject_id": "ว21203",
@@ -22771,7 +22771,7 @@
   },
   {
     "room": "1/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Monday",
     "period": "8",
     "subject_id": "ว21203",
@@ -22780,7 +22780,7 @@
   },
   {
     "room": "1/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Tuesday",
     "period": "1",
     "subject_id": "ค21201",
@@ -22789,7 +22789,7 @@
   },
   {
     "room": "1/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Tuesday",
     "period": "2",
     "subject_id": "ว21102",
@@ -22798,7 +22798,7 @@
   },
   {
     "room": "1/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Tuesday",
     "period": "3",
     "subject_id": "อ21201",
@@ -22807,7 +22807,7 @@
   },
   {
     "room": "1/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Tuesday",
     "period": "4",
     "subject_id": "พัก",
@@ -22816,7 +22816,7 @@
   },
   {
     "room": "1/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Tuesday",
     "period": "5",
     "subject_id": "ท21101",
@@ -22825,7 +22825,7 @@
   },
   {
     "room": "1/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Tuesday",
     "period": "6",
     "subject_id": "อ21101",
@@ -22834,7 +22834,7 @@
   },
   {
     "room": "1/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Tuesday",
     "period": "7",
     "subject_id": "ส21101",
@@ -22843,7 +22843,7 @@
   },
   {
     "room": "1/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Tuesday",
     "period": "8",
     "subject_id": "ว21101",
@@ -22852,7 +22852,7 @@
   },
   {
     "room": "1/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Wednesday",
     "period": "1",
     "subject_id": "อ21101",
@@ -22861,7 +22861,7 @@
   },
   {
     "room": "1/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Wednesday",
     "period": "2",
     "subject_id": "ค21101",
@@ -22870,7 +22870,7 @@
   },
   {
     "room": "1/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Wednesday",
     "period": "3",
     "subject_id": "ส21101",
@@ -22879,7 +22879,7 @@
   },
   {
     "room": "1/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Wednesday",
     "period": "4",
     "subject_id": "พัก",
@@ -22888,7 +22888,7 @@
   },
   {
     "room": "1/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Wednesday",
     "period": "5",
     "subject_id": "ว21101",
@@ -22897,7 +22897,7 @@
   },
   {
     "room": "1/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Wednesday",
     "period": "6",
     "subject_id": "ว21101",
@@ -22906,7 +22906,7 @@
   },
   {
     "room": "1/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Wednesday",
     "period": "7",
     "subject_id": "กิจกรรม",
@@ -22915,7 +22915,7 @@
   },
   {
     "room": "1/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Wednesday",
     "period": "8",
     "subject_id": "ศ21101",
@@ -22924,7 +22924,7 @@
   },
   {
     "room": "1/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Thursday",
     "period": "1",
     "subject_id": "พ21101",
@@ -22933,7 +22933,7 @@
   },
   {
     "room": "1/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Thursday",
     "period": "2",
     "subject_id": "ศ21101",
@@ -22942,7 +22942,7 @@
   },
   {
     "room": "1/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Thursday",
     "period": "3",
     "subject_id": "ค21101",
@@ -22951,7 +22951,7 @@
   },
   {
     "room": "1/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Thursday",
     "period": "4",
     "subject_id": "พัก",
@@ -22960,7 +22960,7 @@
   },
   {
     "room": "1/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Thursday",
     "period": "5",
     "subject_id": "ว21211",
@@ -22969,7 +22969,7 @@
   },
   {
     "room": "1/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Thursday",
     "period": "6",
     "subject_id": "อ21101",
@@ -22978,7 +22978,7 @@
   },
   {
     "room": "1/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Thursday",
     "period": "7",
     "subject_id": "ง21101",
@@ -22987,7 +22987,7 @@
   },
   {
     "room": "1/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Thursday",
     "period": "8",
     "subject_id": "กิจกรรม",
@@ -22996,7 +22996,7 @@
   },
   {
     "room": "1/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Friday",
     "period": "1",
     "subject_id": "ว21201",
@@ -23005,7 +23005,7 @@
   },
   {
     "room": "1/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Friday",
     "period": "2",
     "subject_id": "ว21201",
@@ -23014,7 +23014,7 @@
   },
   {
     "room": "1/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Friday",
     "period": "3",
     "subject_id": "ค21201",
@@ -23023,7 +23023,7 @@
   },
   {
     "room": "1/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Friday",
     "period": "4",
     "subject_id": "พัก",
@@ -23032,7 +23032,7 @@
   },
   {
     "room": "1/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Friday",
     "period": "5",
     "subject_id": "อ21205",
@@ -23041,7 +23041,7 @@
   },
   {
     "room": "1/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Friday",
     "period": "6",
     "subject_id": "ส21101",
@@ -23050,7 +23050,7 @@
   },
   {
     "room": "1/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Friday",
     "period": "7",
     "subject_id": "ท21101",
@@ -23059,7 +23059,7 @@
   },
   {
     "room": "1/3",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Monday",
     "period": "1",
     "subject_id": "ว21201",
@@ -23068,7 +23068,7 @@
   },
   {
     "room": "1/3",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Monday",
     "period": "2",
     "subject_id": "ว21201",
@@ -23077,7 +23077,7 @@
   },
   {
     "room": "1/3",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Monday",
     "period": "3",
     "subject_id": "ค21101",
@@ -23086,7 +23086,7 @@
   },
   {
     "room": "1/3",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Monday",
     "period": "4",
     "subject_id": "พัก",
@@ -23095,7 +23095,7 @@
   },
   {
     "room": "1/3",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Monday",
     "period": "5",
     "subject_id": "อ21101",
@@ -23104,7 +23104,7 @@
   },
   {
     "room": "1/3",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Monday",
     "period": "6",
     "subject_id": "แนะแนว",
@@ -23113,7 +23113,7 @@
   },
   {
     "room": "1/3",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Monday",
     "period": "7",
     "subject_id": "ส21101",
@@ -23122,7 +23122,7 @@
   },
   {
     "room": "1/3",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Monday",
     "period": "8",
     "subject_id": "ท21101",
@@ -23131,7 +23131,7 @@
   },
   {
     "room": "1/3",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Tuesday",
     "period": "1",
     "subject_id": "ว21101",
@@ -23140,7 +23140,7 @@
   },
   {
     "room": "1/3",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Tuesday",
     "period": "2",
     "subject_id": "ว21101",
@@ -23149,7 +23149,7 @@
   },
   {
     "room": "1/3",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Tuesday",
     "period": "3",
     "subject_id": "ท21101",
@@ -23158,7 +23158,7 @@
   },
   {
     "room": "1/3",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Tuesday",
     "period": "4",
     "subject_id": "พัก",
@@ -23167,7 +23167,7 @@
   },
   {
     "room": "1/3",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Tuesday",
     "period": "5",
     "subject_id": "ศ21101",
@@ -23176,7 +23176,7 @@
   },
   {
     "room": "1/3",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Tuesday",
     "period": "6",
     "subject_id": "อ21101",
@@ -23185,7 +23185,7 @@
   },
   {
     "room": "1/3",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Tuesday",
     "period": "7",
     "subject_id": "อ21205",
@@ -23194,7 +23194,7 @@
   },
   {
     "room": "1/3",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Wednesday",
     "period": "1",
     "subject_id": "ค21101",
@@ -23203,7 +23203,7 @@
   },
   {
     "room": "1/3",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Wednesday",
     "period": "2",
     "subject_id": "ว21101",
@@ -23212,7 +23212,7 @@
   },
   {
     "room": "1/3",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Wednesday",
     "period": "3",
     "subject_id": "อ21201",
@@ -23221,7 +23221,7 @@
   },
   {
     "room": "1/3",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Wednesday",
     "period": "4",
     "subject_id": "พัก",
@@ -23230,7 +23230,7 @@
   },
   {
     "room": "1/3",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Wednesday",
     "period": "5",
     "subject_id": "ส21102",
@@ -23239,7 +23239,7 @@
   },
   {
     "room": "1/3",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Wednesday",
     "period": "6",
     "subject_id": "ศ21101",
@@ -23248,7 +23248,7 @@
   },
   {
     "room": "1/3",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Wednesday",
     "period": "7",
     "subject_id": "กิจกรรม",
@@ -23257,7 +23257,7 @@
   },
   {
     "room": "1/3",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Wednesday",
     "period": "8",
     "subject_id": "ว21211",
@@ -23266,7 +23266,7 @@
   },
   {
     "room": "1/3",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Thursday",
     "period": "1",
     "subject_id": "ท21101",
@@ -23275,7 +23275,7 @@
   },
   {
     "room": "1/3",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Thursday",
     "period": "2",
     "subject_id": "ส21101",
@@ -23284,7 +23284,7 @@
   },
   {
     "room": "1/3",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Thursday",
     "period": "3",
     "subject_id": "ง21101",
@@ -23293,7 +23293,7 @@
   },
   {
     "room": "1/3",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Thursday",
     "period": "4",
     "subject_id": "พัก",
@@ -23302,7 +23302,7 @@
   },
   {
     "room": "1/3",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Thursday",
     "period": "5",
     "subject_id": "ว21102",
@@ -23311,7 +23311,7 @@
   },
   {
     "room": "1/3",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Thursday",
     "period": "6",
     "subject_id": "ค21201",
@@ -23320,7 +23320,7 @@
   },
   {
     "room": "1/3",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Thursday",
     "period": "7",
     "subject_id": "อ21101",
@@ -23329,7 +23329,7 @@
   },
   {
     "room": "1/3",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Thursday",
     "period": "8",
     "subject_id": "กิจกรรม",
@@ -23338,7 +23338,7 @@
   },
   {
     "room": "1/3",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Friday",
     "period": "1",
     "subject_id": "ค21101",
@@ -23347,7 +23347,7 @@
   },
   {
     "room": "1/3",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Friday",
     "period": "2",
     "subject_id": "พ21102",
@@ -23356,7 +23356,7 @@
   },
   {
     "room": "1/3",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Friday",
     "period": "3",
     "subject_id": "ส21101",
@@ -23365,7 +23365,7 @@
   },
   {
     "room": "1/3",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Friday",
     "period": "4",
     "subject_id": "พัก",
@@ -23374,7 +23374,7 @@
   },
   {
     "room": "1/3",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Friday",
     "period": "5",
     "subject_id": "ค21201",
@@ -23383,7 +23383,7 @@
   },
   {
     "room": "1/3",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Friday",
     "period": "6",
     "subject_id": "ว21203",
@@ -23392,7 +23392,7 @@
   },
   {
     "room": "1/3",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Friday",
     "period": "7",
     "subject_id": "ว21203",
@@ -23401,7 +23401,7 @@
   },
   {
     "room": "1/3",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Friday",
     "period": "8",
     "subject_id": "พ21101",
@@ -28234,7 +28234,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Monday",
     "period": "1",
     "subject_id": "ว31101",
@@ -28243,7 +28243,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Monday",
     "period": "2",
     "subject_id": "ส31102",
@@ -28252,7 +28252,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Monday",
     "period": "3",
     "subject_id": "ว31241",
@@ -28261,7 +28261,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Monday",
     "period": "4",
     "subject_id": "ว31241",
@@ -28270,7 +28270,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Monday",
     "period": "5",
     "subject_id": "พัก",
@@ -28279,7 +28279,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Monday",
     "period": "6",
     "subject_id": "ว31223",
@@ -28288,7 +28288,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Monday",
     "period": "7",
     "subject_id": "ค31201",
@@ -28297,7 +28297,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Monday",
     "period": "8",
     "subject_id": "ว30104",
@@ -28306,7 +28306,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Monday",
     "period": "9",
     "subject_id": "ว30104",
@@ -28315,7 +28315,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Monday",
     "period": "10",
     "subject_id": "อ31101",
@@ -28324,7 +28324,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Tuesday",
     "period": "1",
     "subject_id": "อ31201",
@@ -28333,7 +28333,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Tuesday",
     "period": "2",
     "subject_id": "ค31101",
@@ -28342,7 +28342,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Tuesday",
     "period": "3",
     "subject_id": "ว31223",
@@ -28351,7 +28351,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Tuesday",
     "period": "4",
     "subject_id": "ว31223",
@@ -28360,7 +28360,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Tuesday",
     "period": "5",
     "subject_id": "พัก",
@@ -28369,7 +28369,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Tuesday",
     "period": "6",
     "subject_id": "ว30103",
@@ -28378,7 +28378,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Tuesday",
     "period": "7",
     "subject_id": "ว30103",
@@ -28387,7 +28387,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Tuesday",
     "period": "8",
     "subject_id": "ว31247",
@@ -28396,7 +28396,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Tuesday",
     "period": "9",
     "subject_id": "ว31247",
@@ -28405,7 +28405,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Wednesday",
     "period": "1",
     "subject_id": "ว31229",
@@ -28414,7 +28414,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Wednesday",
     "period": "2",
     "subject_id": "ค31101",
@@ -28423,7 +28423,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Wednesday",
     "period": "3",
     "subject_id": "ศ31101",
@@ -28432,7 +28432,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Wednesday",
     "period": "4",
     "subject_id": "แนะแนว",
@@ -28441,7 +28441,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Wednesday",
     "period": "5",
     "subject_id": "พัก",
@@ -28450,7 +28450,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Wednesday",
     "period": "6",
     "subject_id": "ค31201",
@@ -28459,7 +28459,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Wednesday",
     "period": "7",
     "subject_id": "พ31101",
@@ -28468,7 +28468,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Wednesday",
     "period": "8",
     "subject_id": "ว31201",
@@ -28477,7 +28477,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Wednesday",
     "period": "9",
     "subject_id": "ว31241",
@@ -28486,7 +28486,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Wednesday",
     "period": "10",
     "subject_id": "ส31101",
@@ -28495,7 +28495,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Thursday",
     "period": "1",
     "subject_id": "อ31203",
@@ -28504,7 +28504,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Thursday",
     "period": "2",
     "subject_id": "ท31101",
@@ -28513,7 +28513,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Thursday",
     "period": "3",
     "subject_id": "ว30103",
@@ -28522,7 +28522,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Thursday",
     "period": "4",
     "subject_id": "ค31201",
@@ -28531,7 +28531,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Thursday",
     "period": "5",
     "subject_id": "พัก",
@@ -28540,7 +28540,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Thursday",
     "period": "6",
     "subject_id": "ค31101",
@@ -28549,7 +28549,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Thursday",
     "period": "7",
     "subject_id": "ว31201",
@@ -28558,7 +28558,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Thursday",
     "period": "8",
     "subject_id": "กิจกรรม",
@@ -28567,7 +28567,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Thursday",
     "period": "9",
     "subject_id": "ว30104",
@@ -28576,7 +28576,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Friday",
     "period": "1",
     "subject_id": "ว31229",
@@ -28585,7 +28585,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Friday",
     "period": "2",
     "subject_id": "ส31101",
@@ -28594,7 +28594,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Friday",
     "period": "3",
     "subject_id": "ว31201",
@@ -28603,7 +28603,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Friday",
     "period": "4",
     "subject_id": "ว31201",
@@ -28612,7 +28612,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Friday",
     "period": "5",
     "subject_id": "พัก",
@@ -28621,7 +28621,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Friday",
     "period": "6",
     "subject_id": "ค31201",
@@ -28630,7 +28630,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Friday",
     "period": "7",
     "subject_id": "ท31101",
@@ -28639,7 +28639,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Friday",
     "period": "8",
     "subject_id": "อ31203",
@@ -28648,7 +28648,7 @@
   },
   {
     "room": "4/2",
-    "program": "Gifted  Sci",
+    "program": "Gifted Sci",
     "day": "Friday",
     "period": "9",
     "subject_id": "อ31101",
@@ -28679,7 +28679,7 @@
     "day": "Monday",
     "period": "3",
     "subject_id": "Locked",
-    "room_id": "Gifted tedted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -28688,7 +28688,7 @@
     "day": "Monday",
     "period": "4",
     "subject_id": "Locked",
-    "room_id": "Gifted tedted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -28751,7 +28751,7 @@
     "day": "Tuesday",
     "period": "3",
     "subject_id": "Locked",
-    "room_id": "Gifted tedted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -28760,7 +28760,7 @@
     "day": "Tuesday",
     "period": "4",
     "subject_id": "Locked",
-    "room_id": "Gifted tedted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -28850,7 +28850,7 @@
     "day": "Wednesday",
     "period": "7",
     "subject_id": "Locked",
-    "room_id": "Gifted tedted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -28859,7 +28859,7 @@
     "day": "Wednesday",
     "period": "8",
     "subject_id": "Locked",
-    "room_id": "Gifted tedted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -28913,7 +28913,7 @@
     "day": "Thursday",
     "period": "6",
     "subject_id": "Locked",
-    "room_id": "Gifted tedted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -28922,7 +28922,7 @@
     "day": "Thursday",
     "period": "7",
     "subject_id": "Locked",
-    "room_id": "Gifted tedted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -28958,7 +28958,7 @@
     "day": "Friday",
     "period": "3",
     "subject_id": "Locked",
-    "room_id": "Gifted tedted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -28967,7 +28967,7 @@
     "day": "Friday",
     "period": "4",
     "subject_id": "Locked",
-    "room_id": "Gifted tedted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -29021,7 +29021,7 @@
     "day": "Monday",
     "period": "3",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -29030,7 +29030,7 @@
     "day": "Monday",
     "period": "4",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -29093,7 +29093,7 @@
     "day": "Tuesday",
     "period": "3",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -29102,7 +29102,7 @@
     "day": "Tuesday",
     "period": "4",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -29192,7 +29192,7 @@
     "day": "Wednesday",
     "period": "7",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -29201,7 +29201,7 @@
     "day": "Wednesday",
     "period": "8",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -29255,7 +29255,7 @@
     "day": "Thursday",
     "period": "6",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -29264,7 +29264,7 @@
     "day": "Thursday",
     "period": "7",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -29300,7 +29300,7 @@
     "day": "Friday",
     "period": "3",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -29309,7 +29309,7 @@
     "day": "Friday",
     "period": "4",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -37144,7 +37144,7 @@
   },
   {
     "room": "1/1",
-    "program": "Gifted  Math",
+    "program": "Gifted Math",
     "day": "Monday",
     "period": "1",
     "subject_id": "อ21101",
@@ -37153,7 +37153,7 @@
   },
   {
     "room": "1/1",
-    "program": "Gifted  Math",
+    "program": "Gifted Math",
     "day": "Monday",
     "period": "2",
     "subject_id": "ค21101",
@@ -37162,7 +37162,7 @@
   },
   {
     "room": "1/1",
-    "program": "Gifted  Math",
+    "program": "Gifted Math",
     "day": "Monday",
     "period": "3",
     "subject_id": "อ21201",
@@ -37171,7 +37171,7 @@
   },
   {
     "room": "1/1",
-    "program": "Gifted  Math",
+    "program": "Gifted Math",
     "day": "Monday",
     "period": "4",
     "subject_id": "พัก",
@@ -37180,7 +37180,7 @@
   },
   {
     "room": "1/1",
-    "program": "Gifted  Math",
+    "program": "Gifted Math",
     "day": "Monday",
     "period": "5",
     "subject_id": "แนะแนว",
@@ -37189,7 +37189,7 @@
   },
   {
     "room": "1/1",
-    "program": "Gifted  Math",
+    "program": "Gifted Math",
     "day": "Monday",
     "period": "6",
     "subject_id": "ว21102",
@@ -37198,7 +37198,7 @@
   },
   {
     "room": "1/1",
-    "program": "Gifted  Math",
+    "program": "Gifted Math",
     "day": "Monday",
     "period": "7",
     "subject_id": "ค21203",
@@ -37207,7 +37207,7 @@
   },
   {
     "room": "1/1",
-    "program": "Gifted  Math",
+    "program": "Gifted Math",
     "day": "Monday",
     "period": "8",
     "subject_id": "ค21203",
@@ -37216,7 +37216,7 @@
   },
   {
     "room": "1/1",
-    "program": "Gifted  Math",
+    "program": "Gifted Math",
     "day": "Tuesday",
     "period": "1",
     "subject_id": "ท21101",
@@ -37225,7 +37225,7 @@
   },
   {
     "room": "1/1",
-    "program": "Gifted  Math",
+    "program": "Gifted Math",
     "day": "Tuesday",
     "period": "2",
     "subject_id": "ค21101",
@@ -37234,7 +37234,7 @@
   },
   {
     "room": "1/1",
-    "program": "Gifted  Math",
+    "program": "Gifted Math",
     "day": "Tuesday",
     "period": "3",
     "subject_id": "อ21101",
@@ -37243,7 +37243,7 @@
   },
   {
     "room": "1/1",
-    "program": "Gifted  Math",
+    "program": "Gifted Math",
     "day": "Tuesday",
     "period": "4",
     "subject_id": "พัก",
@@ -37252,7 +37252,7 @@
   },
   {
     "room": "1/1",
-    "program": "Gifted  Math",
+    "program": "Gifted Math",
     "day": "Tuesday",
     "period": "5",
     "subject_id": "ส21101",
@@ -37261,7 +37261,7 @@
   },
   {
     "room": "1/1",
-    "program": "Gifted  Math",
+    "program": "Gifted Math",
     "day": "Tuesday",
     "period": "6",
     "subject_id": "ศ21101",
@@ -37270,7 +37270,7 @@
   },
   {
     "room": "1/1",
-    "program": "Gifted  Math",
+    "program": "Gifted Math",
     "day": "Tuesday",
     "period": "7",
     "subject_id": "ศ21101",
@@ -37279,7 +37279,7 @@
   },
   {
     "room": "1/1",
-    "program": "Gifted  Math",
+    "program": "Gifted Math",
     "day": "Tuesday",
     "period": "8",
     "subject_id": "ง21101",
@@ -37288,7 +37288,7 @@
   },
   {
     "room": "1/1",
-    "program": "Gifted  Math",
+    "program": "Gifted Math",
     "day": "Wednesday",
     "period": "1",
     "subject_id": "ว21101",
@@ -37297,7 +37297,7 @@
   },
   {
     "room": "1/1",
-    "program": "Gifted  Math",
+    "program": "Gifted Math",
     "day": "Wednesday",
     "period": "2",
     "subject_id": "ว21101",
@@ -37306,7 +37306,7 @@
   },
   {
     "room": "1/1",
-    "program": "Gifted  Math",
+    "program": "Gifted Math",
     "day": "Wednesday",
     "period": "3",
     "subject_id": "ค21201",
@@ -37315,7 +37315,7 @@
   },
   {
     "room": "1/1",
-    "program": "Gifted  Math",
+    "program": "Gifted Math",
     "day": "Wednesday",
     "period": "4",
     "subject_id": "พัก",
@@ -37324,7 +37324,7 @@
   },
   {
     "room": "1/1",
-    "program": "Gifted  Math",
+    "program": "Gifted Math",
     "day": "Wednesday",
     "period": "5",
     "subject_id": "ค21202",
@@ -37333,7 +37333,7 @@
   },
   {
     "room": "1/1",
-    "program": "Gifted  Math",
+    "program": "Gifted Math",
     "day": "Wednesday",
     "period": "6",
     "subject_id": "ค21202",
@@ -37342,7 +37342,7 @@
   },
   {
     "room": "1/1",
-    "program": "Gifted  Math",
+    "program": "Gifted Math",
     "day": "Wednesday",
     "period": "7",
     "subject_id": "กิจกรรม",
@@ -37351,7 +37351,7 @@
   },
   {
     "room": "1/1",
-    "program": "Gifted  Math",
+    "program": "Gifted Math",
     "day": "Wednesday",
     "period": "8",
     "subject_id": "ว21211",
@@ -37360,7 +37360,7 @@
   },
   {
     "room": "1/1",
-    "program": "Gifted  Math",
+    "program": "Gifted Math",
     "day": "Thursday",
     "period": "1",
     "subject_id": "ส21101",
@@ -37369,7 +37369,7 @@
   },
   {
     "room": "1/1",
-    "program": "Gifted  Math",
+    "program": "Gifted Math",
     "day": "Thursday",
     "period": "2",
     "subject_id": "ค21101",
@@ -37378,7 +37378,7 @@
   },
   {
     "room": "1/1",
-    "program": "Gifted  Math",
+    "program": "Gifted Math",
     "day": "Thursday",
     "period": "3",
     "subject_id": "ว21101",
@@ -37387,7 +37387,7 @@
   },
   {
     "room": "1/1",
-    "program": "Gifted  Math",
+    "program": "Gifted Math",
     "day": "Thursday",
     "period": "4",
     "subject_id": "พัก",
@@ -37396,7 +37396,7 @@
   },
   {
     "room": "1/1",
-    "program": "Gifted  Math",
+    "program": "Gifted Math",
     "day": "Thursday",
     "period": "5",
     "subject_id": "ส21102",
@@ -37405,7 +37405,7 @@
   },
   {
     "room": "1/1",
-    "program": "Gifted  Math",
+    "program": "Gifted Math",
     "day": "Thursday",
     "period": "6",
     "subject_id": "พ21102",
@@ -37414,7 +37414,7 @@
   },
   {
     "room": "1/1",
-    "program": "Gifted  Math",
+    "program": "Gifted Math",
     "day": "Thursday",
     "period": "7",
     "subject_id": "ท21101",
@@ -37423,7 +37423,7 @@
   },
   {
     "room": "1/1",
-    "program": "Gifted  Math",
+    "program": "Gifted Math",
     "day": "Thursday",
     "period": "8",
     "subject_id": "กิจกรรม",
@@ -37432,7 +37432,7 @@
   },
   {
     "room": "1/1",
-    "program": "Gifted  Math",
+    "program": "Gifted Math",
     "day": "Friday",
     "period": "1",
     "subject_id": "ค21201",
@@ -37441,7 +37441,7 @@
   },
   {
     "room": "1/1",
-    "program": "Gifted  Math",
+    "program": "Gifted Math",
     "day": "Friday",
     "period": "2",
     "subject_id": "พ21101",
@@ -37450,7 +37450,7 @@
   },
   {
     "room": "1/1",
-    "program": "Gifted  Math",
+    "program": "Gifted Math",
     "day": "Friday",
     "period": "3",
     "subject_id": "ท21101",
@@ -37459,7 +37459,7 @@
   },
   {
     "room": "1/1",
-    "program": "Gifted  Math",
+    "program": "Gifted Math",
     "day": "Friday",
     "period": "4",
     "subject_id": "พัก",
@@ -37468,7 +37468,7 @@
   },
   {
     "room": "1/1",
-    "program": "Gifted  Math",
+    "program": "Gifted Math",
     "day": "Friday",
     "period": "5",
     "subject_id": "อ21101",
@@ -37477,7 +37477,7 @@
   },
   {
     "room": "1/1",
-    "program": "Gifted  Math",
+    "program": "Gifted Math",
     "day": "Friday",
     "period": "6",
     "subject_id": "อ21205",
@@ -37486,7 +37486,7 @@
   },
   {
     "room": "1/1",
-    "program": "Gifted  Math",
+    "program": "Gifted Math",
     "day": "Friday",
     "period": "7",
     "subject_id": "ส21101",
@@ -38381,7 +38381,7 @@
     "day": "Monday",
     "period": "3",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -38390,7 +38390,7 @@
     "day": "Monday",
     "period": "4",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -38444,7 +38444,7 @@
     "day": "Tuesday",
     "period": "3",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -38453,7 +38453,7 @@
     "day": "Tuesday",
     "period": "4",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -38498,7 +38498,7 @@
     "day": "Wednesday",
     "period": "3",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -38507,7 +38507,7 @@
     "day": "Wednesday",
     "period": "4",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -38534,7 +38534,7 @@
     "day": "Thursday",
     "period": "1",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -38543,7 +38543,7 @@
     "day": "Thursday",
     "period": "2",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -38624,7 +38624,7 @@
     "day": "Friday",
     "period": "3",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -38633,7 +38633,7 @@
     "day": "Friday",
     "period": "4",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -40532,7 +40532,7 @@
     "day": "Monday",
     "period": "1",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -40541,7 +40541,7 @@
     "day": "Monday",
     "period": "2",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -40640,7 +40640,7 @@
     "day": "Tuesday",
     "period": "5",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -40649,7 +40649,7 @@
     "day": "Tuesday",
     "period": "6",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -40865,7 +40865,7 @@
     "day": "Friday",
     "period": "6",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {
@@ -40874,7 +40874,7 @@
     "day": "Friday",
     "period": "7",
     "subject_id": "Locked",
-    "room_id": "Gifted ted",
+    "room_id": "Gifted",
     "teacher_name": ""
   },
   {

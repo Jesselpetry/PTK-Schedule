@@ -13,3 +13,7 @@ export interface ScheduleItem {
   room_id?: string;
   teacher_name?: string;
 }
+
+export interface FooterProps {
+  currentYear: number;
+}

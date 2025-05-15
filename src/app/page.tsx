@@ -52,6 +52,8 @@ const DEFAULT_CLASS_LEVELS: DropdownOption[] = [
   { id: 6, name: "ม.6", value: "6" },
 ];
 
+  const currentYear = new Date().getFullYear();
+
 export default function Home() {
   const [data, setData] = useState<ScheduleItem[]>([]);
   const [loading, setLoading] = useState(true);
@@ -101,7 +103,14 @@ export default function Home() {
             .map((item) => item.room)
             .filter((room) => room.startsWith(`${classLevel}/`))
         ),
-      ].sort();
+      ].sort((a, b) => {
+        // แยกส่วนตัวเลขห้องออกมา (เช่น "1/1" จะได้ "1")
+        const roomNumberA = a.split('/')[1];
+        const roomNumberB = b.split('/')[1];
+        
+        // เปรียบเทียบเป็นตัวเลข
+        return Number(roomNumberA) - Number(roomNumberB);
+      });
 
       // Create dropdown options
       const options: DropdownOption[] = roomsForLevel.map((room, index) => ({
@@ -177,7 +186,7 @@ export default function Home() {
         />
       </div>
 
-      <Footer />
+      <Footer currentYear={currentYear}/>
     </div>
   );
 }

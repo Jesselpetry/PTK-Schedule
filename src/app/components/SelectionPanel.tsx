@@ -29,37 +29,41 @@ export default function SelectionPanel({
       transition={{ delay: 0.1 }}
       className="bg-white/5 backdrop-blur-lg rounded-xl p-6 mb-8 border border-white/30 mx-lg shadow-lg"
     >
-    <div className="flex items-center mb-4">
-      <div className="w-10 h-10  flex items-center justify-center mr-2">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" className="h-6 w-6 text-white" fill="currentColor">
+      <div className="flex items-center mb-4">
+        <div className="w-10 h-10 flex items-center justify-center mr-2">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" className="h-6 w-6 text-white" fill="currentColor">
             <path d="M337.8 5.4C327-1.8 313-1.8 302.2 5.4L166.3 96 48 96C21.5 96 0 117.5 0 144L0 464c0 26.5 21.5 48 48 48l208 0 0-96c0-35.3 28.7-64 64-64s64 28.7 64 64l0 96 208 0c26.5 0 48-21.5 48-48l0-320c0-26.5-21.5-48-48-48L473.7 96 337.8 5.4zM96 192l32 0c8.8 0 16 7.2 16 16l0 64c0 8.8-7.2 16-16 16l-32 0c-8.8 0-16-7.2-16-16l0-64c0-8.8 7.2-16 16-16zm400 16c0-8.8 7.2-16 16-16l32 0c8.8 0 16 7.2 16 16l0 64c0 8.8-7.2 16-16 16l-32 0c-8.8 0-16-7.2-16-16l0-64zM96 320l32 0c8.8 0 16 7.2 16 16l0 64c0 8.8-7.2 16-16 16l-32 0c-8.8 0-16-7.2-16-16l0-64c0-8.8 7.2-16 16-16zm400 16c0-8.8 7.2-16 16-16l32 0c8.8 0 16 7.2 16 16l0 64c0 8.8-7.2 16-16 16l-32 0c-8.8 0-16-7.2-16-16l0-64zM232 176a88 88 0 1 1 176 0 88 88 0 1 1 -176 0zm88-48c-8.8 0-16 7.2-16 16l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16s-7.2-16-16-16l-16 0 0-16c0-8.8-7.2-16-16-16z" />
-        </svg>
-      </div>
-      <h2 className="text-xl font-semibold text-white text-shadow-md">เลือกห้องเรียน</h2>
-    </div>
-    
-    <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-      {/* Class Level Dropdown */}
-      <div className="relative z-30"> {/* Higher z-index for first dropdown */}
-        <Dropdown
-        label="ระดับชั้น"
-        options={classLevelOptions}
-        selected={selectedClassLevel}
-        onChange={onClassLevelChange}
-        />
+          </svg>
+        </div>
+        <h2 className="text-xl font-semibold text-white text-shadow-md">เลือกห้องเรียน</h2>
+        {programName && (
+          <span className="ml-2 text-white bg-white/10 px-3 py-1 rounded-full text-sm">
+            {programName}
+          </span>
+        )}
       </div>
       
-      {/* Room Dropdown */}
-      <div className="relative z-20"> {/* Lower z-index for second dropdown */}
-        <Dropdown
-        label="ห้องเรียน"
-        options={roomOptions}
-        selected={selectedRoom}
-        onChange={onRoomChange}
-        />
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Class Level Dropdown */}
+        <div className="relative z-30">
+          <Dropdown
+            label="ระดับชั้น"
+            options={classLevelOptions}
+            selected={selectedClassLevel}
+            onChange={onClassLevelChange}
+          />
+        </div>
+        
+        {/* Room Dropdown */}
+        <div className="relative z-20">
+          <Dropdown
+            label="ห้องเรียน"
+            options={roomOptions}
+            selected={selectedRoom}
+            onChange={onRoomChange}
+          />
+        </div>
       </div>
-    </div>
-      
     </motion.div>
   );
 }

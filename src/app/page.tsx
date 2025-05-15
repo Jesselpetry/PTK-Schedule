@@ -1,103 +1,183 @@
-import Image from "next/image";
+"use client";
+
+import { useEffect, useState } from "react";
+import SelectionPanel from "./components/SelectionPanel";
+import TimetableView from "./components/TimetableView";
+import Footer from "./components/Footer";
+import LoadingScreen from "./components/LoadingScreen";
+import { DropdownOption } from "./components/Dropdown";
+import Header from "./components/Header";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faCalendarAlt } from "@fortawesome/free-solid-svg-icons";
+
+interface ScheduleItem {
+  room: string;
+  program: string;
+  day: string;
+  period: number | string;
+  subject_id: string;
+  room_id?: string;
+  teacher_name?: string;
+}
+
+const days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"];
+const dayTH = {
+  Monday: "จันทร์",
+  Tuesday: "อังคาร",
+  Wednesday: "พุธ",
+  Thursday: "พฤหัส",
+  Friday: "ศุกร์",
+};
+
+const periods = [
+  { num: 1, time: "08:30-09:20" },
+  { num: 2, time: "09:20-10:10" },
+  { num: 3, time: "10:10-11:00" },
+  { num: 4, time: "11:00-11:50" },
+  { num: 5, time: "11:50-12:40" },
+  { num: 6, time: "12:40-13:30" },
+  { num: 7, time: "13:30-14:20" },
+  { num: 8, time: "14:20-15:10" },
+  { num: 9, time: "15:10-16:00" },
+  { num: 10, time: "16:00-16:50" },
+];
+
+// Available class levels (ม.1 through ม.6)
+const DEFAULT_CLASS_LEVELS: DropdownOption[] = [
+  { id: 1, name: "ม.1", value: "1" },
+  { id: 2, name: "ม.2", value: "2" },
+  { id: 3, name: "ม.3", value: "3" },
+  { id: 4, name: "ม.4", value: "4" },
+  { id: 5, name: "ม.5", value: "5" },
+  { id: 6, name: "ม.6", value: "6" },
+];
 
 export default function Home() {
-  return (
-    <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
-      <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol className="list-inside list-decimal text-sm/6 text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
-          <li className="mb-2 tracking-[-.01em]">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-[family-name:var(--font-geist-mono)] font-semibold">
-              src/app/page.tsx
-            </code>
-            .
-          </li>
-          <li className="tracking-[-.01em]">
-            Save and see your changes instantly.
-          </li>
-        </ol>
+  const [data, setData] = useState<ScheduleItem[]>([]);
+  const [loading, setLoading] = useState(true);
 
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <a
-            className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:w-auto"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 w-full sm:w-auto md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Read our docs
-          </a>
-        </div>
-      </main>
-      <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
-      </footer>
+  // Dropdown options state
+  const [classLevelOptions] = useState<DropdownOption[]>(DEFAULT_CLASS_LEVELS);
+  const [selectedClassLevel, setSelectedClassLevel] = useState<DropdownOption>(
+    DEFAULT_CLASS_LEVELS[0]
+  );
+  const [roomOptions, setRoomOptions] = useState<DropdownOption[]>([]);
+  const [selectedRoom, setSelectedRoom] = useState<DropdownOption>({
+    id: 0,
+    name: "กรุณาเลือก",
+    value: "",
+  });
+
+  // Current selected room display
+  const [currentRoomDisplay, setCurrentRoomDisplay] = useState("");
+
+  useEffect(() => {
+    fetch("/schedule.json")
+      .then((res) => res.json())
+      .then((json: ScheduleItem[]) => {
+        setData(json);
+
+        // Process rooms after data is loaded
+        updateRoomOptions(selectedClassLevel.value || "1", json);
+
+        setLoading(false);
+      })
+      .catch((e) => {
+        console.error("Error loading schedule.json:", e);
+        setLoading(false);
+      });
+  }, []);
+
+  // Update room options when class level changes
+  const updateRoomOptions = (
+    classLevel: string,
+    scheduleData: ScheduleItem[]
+  ) => {
+    if (scheduleData.length > 0) {
+      // Get all rooms starting with the selected class level (e.g., "1/")
+      const roomsForLevel = [
+        ...new Set(
+          scheduleData
+            .map((item) => item.room)
+            .filter((room) => room.startsWith(`${classLevel}/`))
+        ),
+      ].sort();
+
+      // Create dropdown options
+      const options: DropdownOption[] = roomsForLevel.map((room, index) => ({
+        id: index + 1,
+        name: room,
+        value: room,
+      }));
+
+      setRoomOptions(options);
+
+      // Auto-select first room if available
+      if (options.length > 0) {
+        setSelectedRoom(options[0]);
+        setCurrentRoomDisplay(options[0].name);
+      } else {
+        setSelectedRoom({ id: 0, name: "ไม่พบข้อมูลห้องเรียน", value: "" });
+        setCurrentRoomDisplay("");
+      }
+    }
+  };
+
+  // Handle class level change
+  const handleClassLevelChange = (option: DropdownOption) => {
+    setSelectedClassLevel(option);
+    updateRoomOptions(option.value || option.name.replace("ม.", ""), data);
+  };
+
+  // Handle room change
+  const handleRoomChange = (option: DropdownOption) => {
+    setSelectedRoom(option);
+    setCurrentRoomDisplay(option.name);
+  };
+
+  // Filter schedule data for selected room
+  const filteredData = data.filter(
+    (item) => item.room === (selectedRoom.value || selectedRoom.name)
+  );
+
+  // Get program name if available
+  const programName = filteredData.length > 0 ? filteredData[0].program : "";
+
+  if (loading) {
+    return <LoadingScreen />;
+  }
+
+  return (
+    <div className="flex flex-col py-8 px-4" style={{ isolation: "isolate" }}>
+      <Header/>
+
+      {/* Ensure SelectionPanel has a higher z-index than the timetable */}
+      <div className="relative z-40">
+        <SelectionPanel
+          classLevelOptions={classLevelOptions}
+          selectedClassLevel={selectedClassLevel}
+          onClassLevelChange={handleClassLevelChange}
+          roomOptions={roomOptions}
+          selectedRoom={selectedRoom}
+          onRoomChange={handleRoomChange}
+          selectedRoomDisplay={currentRoomDisplay}
+          programName={programName}
+        />
+      </div>
+
+      {/* Lower z-index for the timetable */}
+      <div className="relative z-30">
+        <TimetableView
+          selectedRoom={currentRoomDisplay}
+          filteredData={filteredData}
+          days={days}
+          dayTH={dayTH}
+          periods={periods}
+          program={programName}
+        />
+      </div>
+
+      <Footer />
     </div>
   );
 }

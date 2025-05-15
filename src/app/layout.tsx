@@ -4,19 +4,19 @@ import localFont from "next/font/local";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "ระบบฐานข้อมูลผู้ใช้งานระบบบริการนักเรียน",
-  description: "สำหรับลงทะเบียนวิชาทั่วไป วิชาเลือก กิจกรรมชุมนุม ภาคเรียนที่ 1/2568",
+  title: "เว็บดูตารางเรียน",
+  description: "ระบบตรวจสอบตารางเรียนสำหรับนักเรียน ภาคเรียนที่ 1/2568",
   openGraph: {
-    title: "ระบบฐานข้อมูลผู้ใช้งานระบบบริการนักเรียน",
-    description: "สำหรับลงทะเบียนวิชาทั่วไป วิชาเลือก กิจกรรมชุมนุม ภาคเรียนที่ 1/2568",
-    url: "https://ptk-userpass.vercel.app",
-    siteName: "ระบบฐานข้อมูลผู้ใช้งานระบบบริการนักเรียน",
+    title: "เว็บดูตารางเรียน",
+    description: "ระบบตรวจสอบตารางเรียนสำหรับนักเรียน ภาคเรียนที่ 1/2568",
+    url: "https://ptk-schedule.vercel.app",
+    siteName: "เว็บดูตารางเรียน",
     images: [
       {
         url: "/webpreview.png",
         width: 1200,
         height: 630,
-        alt: "ระบบฐานข้อมูลผู้ใช้งานระบบบริการนักเรียน",
+        alt: "PTK-Schedule-Viewer",
       },
     ],
     type: "website",
@@ -24,8 +24,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "ระบบฐานข้อมูลผู้ใช้งานระบบบริการนักเรียน",
-    description: "สำหรับลงทะเบียนวิชาทั่วไป วิชาเลือก กิจกรรมชุมนุม ภาคเรียนที่ 1/2568",
+    title: "PTK-Schedule-Viewer",
+    description: "ระบบตรวจสอบตารางเรียนสำหรับนักเรียน ภาคเรียนที่ 1/2568",
     images: ["/webpreview.png"],
   },
 };

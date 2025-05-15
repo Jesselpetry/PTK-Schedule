@@ -45,7 +45,7 @@ export default function TimetableView({
           animate={{ opacity: 1, y: 0 }}
           exit={{ opacity: 0, y: -20 }}
           transition={{ duration: 0.3 }}
-          className="bg-white/5 border-white/30 backdrop-blur-lg rounded-xl border border-gray/30 overflow-hidden mb-6 p-5"
+          className="bg-white/5 border-white/30 backdrop-blur-lg rounded-xl border border-gray/30 overflow-hidden mb-6 p-5 w-100%"
         >
           {/* Header with room info and school logo */}
           <div className="bg-gray-200 rounded-tl-xl rounded-tr-xl shadow-lg p-4 flex items-center justify-between">
@@ -60,7 +60,9 @@ export default function TimetableView({
                   {schoolName}
                 </h2>
                 <div className="flex items-center text-gray-600 mt-1">
-                  <span className="mr-3">ห้อง {selectedRoom} {program}</span>
+                  <span className="mr-3">
+                    ห้อง {selectedRoom} {program}
+                  </span>
                 </div>
               </div>
             </div>
@@ -86,7 +88,7 @@ export default function TimetableView({
                   <tbody>
                     {days.map((day) => (
                       <tr key={day}>
-                        <td 
+                        <td
                           className="p-2 border border-gray-300 bg-gray-200 font-medium text-gray-800"
                           style={{ height: "110px" }}
                         >

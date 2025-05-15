@@ -32,7 +32,7 @@ export default function TimetableView({
   days,
   dayTH,
   periods,
-  schoolLogo = "/logo.png", // Default logo path
+  schoolLogo = "/Logo.png", // Default logo path
   schoolName = "รร.ปทุมเทพวิทยาคาร", // Default school name
   roomFloor = "1", // Default floor
 }: TimetableViewProps) {
